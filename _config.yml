@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://borjavss.github.io
+title: AskSanz
+tagline: A log of everyday life
+description: My Business repository RSS open for everybody
+paginate: 5
